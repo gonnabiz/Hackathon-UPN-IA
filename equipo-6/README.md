@@ -1,6 +1,6 @@
-# Equipo 6
+# Equipo 6 NAYRA
 
-- **Integrantes:**
+- **Integrantes: JAIR ROJAS**
 - **Descripción del proyecto:**
 - **Instrucciones de ejecución:**
 - **Enlace a demo:**
